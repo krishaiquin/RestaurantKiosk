@@ -1,0 +1,18 @@
+{"foodList": [
+    {
+        "code": "A1",
+        "price": 5,
+        "name": "Shanghai",
+        "description": "egg rolls",
+        "availability": true,
+        "category": "APPETIZER"
+    },
+    {
+        "code": "C2",
+        "price": 3,
+        "name": "Chicken",
+        "description": "Fried Chicken",
+        "availability": true,
+        "category": "CHICKEN"
+    }
+]}

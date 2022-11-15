@@ -1,0 +1,18 @@
+{"foodList": [
+    {
+        "code": "A1",
+        "price": 8.5,
+        "name": "Lumpiang Shanghai",
+        "description": "ground pork and vegetables spring roll",
+        "availability": true,
+        "category": "APPETIZER"
+    },
+    {
+        "code": "A2",
+        "price": 7.5,
+        "name": "Ensaladang Talong",
+        "description": "grilled eggplant, salted duck egg and tomato salsa served with shrimp paste",
+        "availability": false,
+        "category": "APPETIZER"
+    }
+]}

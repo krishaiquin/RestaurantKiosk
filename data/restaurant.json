@@ -1,0 +1,17 @@
+{
+    "name": "La Meza Grill",
+    "tableList": [
+        {
+            "label": "Table 1",
+            "capacity": 4
+        },
+        {
+            "label": "Table 2",
+            "capacity": 2
+        },
+        {
+            "label": "Table 3",
+            "capacity": 10
+        }
+    ]
+}

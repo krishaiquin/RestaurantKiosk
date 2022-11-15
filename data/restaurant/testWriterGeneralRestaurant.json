@@ -1,0 +1,13 @@
+{
+    "name": "My Restaurant",
+    "tableList": [
+        {
+            "label": "Table 1",
+            "capacity": 2
+        },
+        {
+            "label": "Table 2",
+            "capacity": 4
+        }
+    ]
+}

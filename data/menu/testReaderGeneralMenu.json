@@ -1,0 +1,18 @@
+{"foodList": [
+  {
+    "code": "A1",
+    "price": 8.5,
+    "name": "Lumpiang Shanghai",
+    "description": "ground pork and vegetables spring roll",
+    "availability": true,
+    "category": "APPETIZER"
+  },
+  {
+    "code": "G4",
+    "price": 12.5,
+    "name": "Liempo",
+    "description": "Grilled pork belly",
+    "availability": false,
+    "category": "GRILLED"
+  }
+]}
